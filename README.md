@@ -1,8 +1,6 @@
 nodejs-proxy
 ============
 
-A lightweight proxy server running on node.js. Uses https://github.com/nodejitsu/node-http-proxy.
-
 First install node.js, e.g. on Mac:
 <code>brew install node</code>
 
